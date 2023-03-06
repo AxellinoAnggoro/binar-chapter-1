@@ -22,13 +22,7 @@ fun main(){
     }
     println(hariIni)
 
-//    val input : Int = readLine()!!.toInt()
-//    val hasil = when{
-//        input < 0 -> "angka negatif"
-//        input > 0  -> "Angka positif"
-//        else -> "masukkan selain 0"
-//    }
-//    println(hasil)
+
 
     for (i in 1..10){
         print("$i,")

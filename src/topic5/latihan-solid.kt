@@ -1,4 +1,4 @@
-package OOP_SOLID
+package topic5
 
 // SRP
 class Dashboard(){
